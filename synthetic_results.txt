@@ -1,0 +1,170 @@
+                                                   Mean  Median  Standard Deviation
+demographics.student_major                        1.536     2.0            1.114426
+demographics.prior_expertise                      4.972     5.0            3.164369
+demographics.perception_of_CS_value               3.355     3.0            0.972585
+generic_content.P3.personalize_effectively        2.524     3.0            1.113851
+generic_content.P3.text_specific_content          2.463     2.0            1.142776
+generic_content.C1.concept_relevance              3.284     3.0            0.906734
+generic_content.C1.concept_value_learning         2.565     3.0            1.138891
+generic_content.RQ4.CS_relevance                  3.355     3.0            0.972585
+generic_content.RQ4.CS_value_learning             3.355     3.0            0.972585
+generic_content.RQ4.CS_useful_career              2.532     3.0            1.104625
+generic_content.C2.better_understanding           3.909     4.0            1.156744
+generic_content.C2.teach_concept                  3.176     3.0            1.455040
+generic_content.C2.succeed_applying_concept       2.509     3.0            1.121239
+generic_content.C3.effectiveness                  2.493     2.0            1.116780
+generic_content.C3.clarity                        2.535     3.0            1.121621
+personalized_content.P3.personalize_effectively   4.095     4.0            0.952303
+personalized_content.P3.text_specific_content     4.039     4.0            0.973872
+personalized_content.C1.concept_relevance         4.693     5.0            0.461480
+personalized_content.C1.concept_value_learning    4.115     4.0            0.962653
+personalized_content.RQ4.CS_relevance             4.753     5.0            0.431483
+personalized_content.RQ4.CS_value_learning        4.753     5.0            0.431483
+personalized_content.RQ4.CS_useful_career         4.102     4.0            0.949999
+personalized_content.C2.better_understanding      4.740     5.0            0.510549
+personalized_content.C2.teach_concept             4.331     5.0            0.900138
+personalized_content.C2.succeed_applying_concept  4.086     4.0            0.970333
+personalized_content.C3.effectiveness             4.074     4.0            0.957832
+personalized_content.C3.clarity                   4.099     4.0            0.956093
+
+Column: generic_content.P3.personalize_effectively
+T-statistic: -100.32570700630039
+P-value: 0.0
+Effect Size: -1.5206992699799478
+
+Column: generic_content.P3.text_specific_content
+T-statistic: -100.79634567724564
+P-value: 0.0
+Effect Size: -1.4891467333319652
+
+Column: generic_content.C1.concept_relevance
+T-statistic: -70.43951241489927
+P-value: 0.0
+Effect Size: -2.0596193613973988
+
+Column: generic_content.C1.concept_value_learning
+T-statistic: -98.47519299988011
+P-value: 0.0
+Effect Size: -1.4751057893511872
+
+Column: generic_content.RQ4.CS_relevance
+T-statistic: -65.03675995472513
+P-value: 0.0
+Effect Size: -1.9913576870279237
+
+Column: generic_content.RQ4.CS_value_learning
+T-statistic: -65.03675995472513
+P-value: 0.0
+Effect Size: -1.9913576870279237
+
+Column: generic_content.RQ4.CS_useful_career
+T-statistic: -100.23300272246325
+P-value: 0.0
+Effect Size: -1.5282600680058258
+
+Column: generic_content.C2.better_understanding
+T-statistic: -31.42820135763281
+P-value: 2.604749524940592e-151
+Effect Size: -0.9968250739091639
+
+Column: generic_content.C2.teach_concept
+T-statistic: -44.767420317422385
+P-value: 5.307900768635685e-241
+Effect Size: -0.9808174309870573
+
+Column: generic_content.C2.succeed_applying_concept
+T-statistic: -100.89191078286798
+P-value: 0.0
+Effect Size: -1.5079571433760577
+
+Column: generic_content.C3.effectiveness
+T-statistic: -101.279030729805
+P-value: 0.0
+Effect Size: -1.524140478413665
+
+Column: generic_content.C3.clarity
+T-statistic: -99.68657989129518
+P-value: 0.0
+Effect Size: -1.5055012316945542
+
+
+
+ANOVA Results
+
+Demographic Variable: demographics.student_major
+generic_content.P3.personalize_effectively: p-value = 0.8422638632288185
+generic_content.P3.text_specific_content: p-value = 0.02691364423001993
+generic_content.C1.concept_relevance: p-value = 5.742983154969822e-47
+generic_content.C1.concept_value_learning: p-value = 0.9674084683503098
+generic_content.RQ4.CS_relevance: p-value = 1.8640487915242485e-113
+generic_content.RQ4.CS_value_learning: p-value = 1.8640487915242485e-113
+generic_content.RQ4.CS_useful_career: p-value = 0.31074923886361566
+generic_content.C2.better_understanding: p-value = 0.6435344256596232
+generic_content.C2.teach_concept: p-value = 0.6537090557288994
+generic_content.C2.succeed_applying_concept: p-value = 0.7194225539813968
+generic_content.C3.effectiveness: p-value = 0.2132552850445171
+generic_content.C3.clarity: p-value = 0.832416824386683
+personalized_content.P3.personalize_effectively: p-value = 8.64796153682819e-25
+personalized_content.P3.text_specific_content: p-value = 4.048182442517093e-22
+personalized_content.C1.concept_relevance: p-value = 0.5795519735342772
+personalized_content.C1.concept_value_learning: p-value = 5.1129772503660715e-23
+personalized_content.RQ4.CS_relevance: p-value = 7.455104074218503e-24
+personalized_content.RQ4.CS_value_learning: p-value = 7.455104074218503e-24
+personalized_content.RQ4.CS_useful_career: p-value = 3.4339748667413425e-28
+personalized_content.C2.better_understanding: p-value = 4.235242242947925e-14
+personalized_content.C2.teach_concept: p-value = 3.7320591171749466e-12
+personalized_content.C2.succeed_applying_concept: p-value = 9.519451973177258e-26
+personalized_content.C3.effectiveness: p-value = 2.939313900221861e-23
+personalized_content.C3.clarity: p-value = 1.0484399471057283e-24
+
+Demographic Variable: demographics.prior_expertise
+generic_content.P3.personalize_effectively: p-value = 0.38563754965695934
+generic_content.P3.text_specific_content: p-value = 0.23270857492084548
+generic_content.C1.concept_relevance: p-value = 0.011884573843024248
+generic_content.C1.concept_value_learning: p-value = 0.11612025475027452
+generic_content.RQ4.CS_relevance: p-value = 0.6920745938445119
+generic_content.RQ4.CS_value_learning: p-value = 0.6920745938445119
+generic_content.RQ4.CS_useful_career: p-value = 0.18920212527932004
+generic_content.C2.better_understanding: p-value = 0.0
+generic_content.C2.teach_concept: p-value = 0.0
+generic_content.C2.succeed_applying_concept: p-value = 0.7748202411121402
+generic_content.C3.effectiveness: p-value = 0.8885902761966393
+generic_content.C3.clarity: p-value = 0.8901359458925288
+personalized_content.P3.personalize_effectively: p-value = 0.8217730745437285
+personalized_content.P3.text_specific_content: p-value = 0.252970486552875
+personalized_content.C1.concept_relevance: p-value = 0.35954782619246356
+personalized_content.C1.concept_value_learning: p-value = 0.19163654020270557
+personalized_content.RQ4.CS_relevance: p-value = 0.6669482261727646
+personalized_content.RQ4.CS_value_learning: p-value = 0.6669482261727646
+personalized_content.RQ4.CS_useful_career: p-value = 0.5550759132284542
+personalized_content.C2.better_understanding: p-value = 6.843838397849643e-299
+personalized_content.C2.teach_concept: p-value = 0.0
+personalized_content.C2.succeed_applying_concept: p-value = 0.863950960613737
+personalized_content.C3.effectiveness: p-value = 0.8520372299894388
+personalized_content.C3.clarity: p-value = 0.7646145284522148
+
+Demographic Variable: demographics.perception_of_CS_value
+generic_content.P3.personalize_effectively: p-value = 0.44769414912972805
+generic_content.P3.text_specific_content: p-value = 0.4037840485651508
+generic_content.C1.concept_relevance: p-value = 2.1042075112567078e-21
+generic_content.C1.concept_value_learning: p-value = 0.5631093581523006
+generic_content.RQ4.CS_relevance: p-value = 0.0
+generic_content.RQ4.CS_value_learning: p-value = 0.0
+generic_content.RQ4.CS_useful_career: p-value = 0.17505334080344687
+generic_content.C2.better_understanding: p-value = 0.20620977843346022
+generic_content.C2.teach_concept: p-value = 0.15114940393258094
+generic_content.C2.succeed_applying_concept: p-value = 0.7815909791978208
+generic_content.C3.effectiveness: p-value = 0.9022750866486968
+generic_content.C3.clarity: p-value = 0.4094612902414452
+personalized_content.P3.personalize_effectively: p-value = 9.448473906116146e-12
+personalized_content.P3.text_specific_content: p-value = 2.0753963505611384e-09
+personalized_content.C1.concept_relevance: p-value = 0.5837892577220163
+personalized_content.C1.concept_value_learning: p-value = 2.8461279420810307e-11
+personalized_content.RQ4.CS_relevance: p-value = 0.0
+personalized_content.RQ4.CS_value_learning: p-value = 0.0
+personalized_content.RQ4.CS_useful_career: p-value = 1.6338761111874259e-18
+personalized_content.C2.better_understanding: p-value = 0.0001123556513229174
+personalized_content.C2.teach_concept: p-value = 0.0002265514449798272
+personalized_content.C2.succeed_applying_concept: p-value = 2.5639515881384253e-14
+personalized_content.C3.effectiveness: p-value = 9.542912886090698e-12
+personalized_content.C3.clarity: p-value = 2.655499441588486e-14
